@@ -25,31 +25,5 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "type": "Dataset"
-  },
-  {
-    "@context": {
-      "@vocab": "http://schema.org/",
-      "doap": "http://usefulinc.com/ns/doap#"
-    },
-    "@id": "0991feb4-42a3-11e8-b40e-784f436c1350",
-    "author": [
-      "Ali Khan",
-      "Brian Wang",
-      "Jonathan Lau"
-    ],
-    "citation": [
-      "[1] Wang BT, Poirier S, Guo T, Parrent AG, Peters TM, Khan AR. Generation and evalution of an ultra-high field atlas with applications in DBS planning. Proc. SPIE 9784, Medical Imaging 2016: Image Processing, 97840H (March 21, 2016); doi:10.1117/12.2217126.",
-      "[2] Jonathan C. Lau, Keith W. MacDougall, Miguel F. Arango, Terry M. Peters, Andrew G. Parrent, Ali R. Khan. 2017. Ultra-High Field Template-Assisted Target Selection for Deep Brain Stimulation Surgery. World Neurosurg. 103, 531–537. doi:10.1016/j.wneu.2017.04.043"
-    ],
-    "dcterms:conformsTo": [
-      "http://docs.datalad.org/metadata.html#v0-1",
-      "http://bids.neuroimaging.io/bids_spec1.0.1.pdf"
-    ],
-    "foaf:fundedBy": [
-      "CIHR",
-      "NSERC"
-    ],
-    "license": "BSD License",
-    "name": "deepbrainAtlas7T_v1.2"
   }
 ]
