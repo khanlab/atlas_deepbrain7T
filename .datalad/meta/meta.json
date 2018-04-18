@@ -1,0 +1,29 @@
+[
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "0991feb4-42a3-11e8-b40e-784f436c1350",
+    "availableFrom": [
+      {
+        "@id": "19dce800-436c-4f46-a48e-99bb83d10c64",
+        "description": "alik@dyn172-20-59-34.robarts-imaging.ive.its.uwo.pri:~/deepbrain7T_local"
+      },
+      {
+        "@id": "23a0dedb-fad8-431c-948c-099d77141e4d",
+        "description": "neuron.imaging.robarts.ca_annex"
+      },
+      {
+        "@id": "92c3a6d5-4678-44ba-a854-1b8bf188aa17",
+        "description": "graham.sharcnet.ca_rrg_akhanf_annex"
+      },
+      {
+        "@id": "c1556c59-1b9f-45cc-8608-3c738df56b4b",
+        "description": "webgit"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "type": "Dataset"
+  }
+]
